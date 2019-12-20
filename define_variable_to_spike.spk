@@ -1,0 +1,9 @@
+# Instructions
+#
+# Define a variable to spike. BOF 
+# v1
+# 12/20/2019
+
+s_readline();
+s_string("variable"):
+s_string_variable("0");
